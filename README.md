@@ -9,7 +9,7 @@ Remote Junior Data Engineer / Analytics Engineer candidate building from a Data 
 - AWS Certified Cloud Practitioner (Nov 2024)
 
 ## Roadmap
-- **Phase 1 — Foundations:** Advanced SQL (window functions, CTEs), Python with pandas, Git/GitHub daily
+- **Phase 1 — Foundations (Weeks 1–12, from zero):** SQL from the very beginning (SELECT → JOINs → GROUP BY → CTEs → window functions), Python from the very beginning (variables → loops → dictionaries → files), then pandas. No prior knowledge assumed — the programming degree is from 2018, so this is a true fresh start in both languages.
 - **Phase 2 — Modern stack:** dbt, Snowflake, Prefect orchestration, S3 landing layer
 - **Phase 3 — Portfolio projects:** Two end-to-end pipelines (below)
 
